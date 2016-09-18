@@ -50,16 +50,27 @@ It's just a very long list of things I have done, a proper short CV with short e
 # Patents
 * 2015, 8 patents pending, Dream It Get IT Ltd, London, UK
 
-# Other publications
+# Books
 * 2014, Matemaatika õhtuõpik, http://6htu6pik.ut.ee/
-* articles
-* blog posts
+
+# Awards
+* 2013, winner of „Teaduse ja tehnoloogia populariseerimine trükisõna abil”, 
+
+# Other articles and blog posts
+* 2016, How friendly is your AI? It depends on the rewards, Robohub.org, http://robohub.org/how-friendly-is-your-ai-it-depends-on-the-rewards/
+* 2014, Artificial General Intelligence that plays Atari video games: How did DeepMind do it?, Robohub.org, http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-how-did-deepmind-do-it/
+* 2013, Kristjan Korjus: kas kooli­matemaatika on dogmadesse kinni jäänud?, Postimees, http://arvamus.postimees.ee/1247348/kristjan-korjus-kas-kooli-matemaatika-on-dogmadesse-kinni-jaanud
+* 2012, Teadusest: mis see on ja mida see ei ole, Sirp, http://www.sirp.ee/s1-artiklid/c9-sotsiaalia/teadusest-mis-see-on-ja-mida-see-ei-ole/
+* 2010, Kristjan Korjus: sõda sõnavabaduse üle, Postimees, http://pluss.postimees.ee/v2/348914/kristjan-korjus-soda-sonavabaduse-uele
+* 2009, Kristjan Korjus: abituriendid ja «ajude äravool», Postimees, http://arvamus.postimees.ee/v2/112456/kristjan-korjus-abituriendid-ja-ajude-aeravool
 
 # Conference presentations
 * 2016, panel "Changing face of enterprise – automation and artificial intelligence", DLA Piper European Technology Summit, London, UK, http://www.dlapipertechleaderssummit.eu/
+* 2016, talk "Tehisintellekt: kas ja millal?", Metsaülikool, Kääriku, Estonia, http://www.metsaylikool.ee/mu-2016
 * 2016, talk "Building intelligence into autonomous ground delivery robots", The Playfair AI Summit 2016, London, UK, https://playfairaisummit2016.splashthat.com/
 * 2015, talk "Artificial Intelligence that Plays Atari Video Games: How Did Deep Mind Do It?", 
 BUILD STUFF, Vilnius, Lithuania, http://buildstuff.lt/2015/
+* 2012, "Matemaatika õppimisest ", TEDxYouth@Tallinn, https://www.youtube.com/watch?v=J_0d19vJtB0
 
 # Other attended research conferences
 * 2015, International Conference on Machine Learning, Lille, France, http://icml.cc/2015/
