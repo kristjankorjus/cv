@@ -34,11 +34,12 @@ It's just a very long list of things I have done, a proper short CV with short e
 * 1993--2005, Hugo Treffner's High School
 
 # Affiliations
-* 2016--present, member of advisory board, Tulevikutehnoloogiate SA
-* 2013--2015, Representative of PhD students at the Senate of University of Tartu
-* 2013--2015, Õppekava komisjon?
-* 2012--2014, Member of the council of the institute of computer science of University of Tartu
-* 2014, arengukava komisjon
+* 2017--present, Tallinn University of Technology, Council of Robotics and Product Development Curriculum
+* 2016--present, Foundation for Future Technologies, Board of Directors
+* 2013--2015, University of Tartu, Senate
+* 2013--2015, University of Tartu, Council of Computer Science Curriculum
+* 2012--2014, University of Tartu, Council of the Institute of Computer Sci- ence
+* 2014, University of Tartu, Council of Strategic Planning
 
 # Research articles and thesis
 * 2016, "An Efficient Data Partitioning to Improve Classification Performance While Keeping Parameters Interpretable.", PloS one, http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161788
@@ -53,8 +54,17 @@ It's just a very long list of things I have done, a proper short CV with short e
 # Books
 * 2014, Matemaatika õhtuõpik, http://6htu6pik.ut.ee/
 
+# Programming languages
+* More than 20 days of experience: Python, C++, Matlab, VB.net, R, SQL
+* Less than 20 days of experience: CUDA, javascript
+
+# Mark-up languages and other technologies
+* bash, latex, HTML, CSS, XML, json
+
 # Awards
-* 2013, winner of „Teaduse ja tehnoloogia populariseerimine trükisõna abil”, 
+* 2013, winner of „Teaduse ja tehnoloogia populariseerimine trükisõna abil”
+* 2013, HTG auhind
+* 2013, TÜ auhind
 
 # Other articles and blog posts
 * 2016, How friendly is your AI? It depends on the rewards, Robohub.org, http://robohub.org/how-friendly-is-your-ai-it-depends-on-the-rewards/
